@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(31, 30, 30);
+}
+.body{
+    color: gray;
+    margin-left: 25%;
+    margin-top: 25px;
+}
+.head{
+    color: rgb(228, 225, 225);
+    margin-top: 150px;
+    margin-bottom: 200px;
+    border-left: 200px;
+}
+.box{
+    background-color: white;
+}
+.box-part{
+    background-color: white;
+    padding: 20px 10px;
+    margin: 30px 5px;
+}
+.img{
+    margin-top: 150px;
+    margin-left: 25px;
+    padding: 5px;
+    height: 400px;
+    width: 300px;
+}
+.fa{
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.one{
+    background-color: lightgray;
+    color: rgb(31, 30, 30);
+    margin: 10px;
+    padding: 5px 10px;
+}
+.two{
+    background-color: rgb(200, 56, 56);
+    color: white;
+    margin: 10px;
+    padding: 5px 10px;
+}
+.three{
+    background-color: darkorange;
+    color: white;
+    margin: 10px;
+    padding: 5px 10px;
+}
+.love{
+    background-color: rgb(31, 30, 30);
+    color: rgb(228, 225, 225);
+    padding: 35px;
+}
+.hr-star{
+    position: relative;
+    padding: 50px;
+    top: 27px;
+}
+.h4-star{
+    position: absolute;
+    z-index: 1;
+    left: 43%;
+    border: 15px solid white;
+    background-color: white;
+}
+.hr-tag{
+    margin: 50px;
+    position: relative;
+    top: 5px;
+    
+}
+.h4-tag{
+    position: absolute;
+    z-index: 2;
+    top: 35px;
+    left: 33%;
+    border: 25px solid white;
+    background-color: white;
+}
+.box2{
+    background-color: white ;
+    padding-top: 50px;
+}
+.box-part2{
+    border: 1px solid lightgray;
+    padding: 10px 10px;
+    margin: 10px 2px;
+}
+.para{
+    color: gray;
+    margin: 10px 0px;
+    font-size: 12px;
+}
+.row-hr{
+    margin: 30px;
+
+}
+.box-part3{
+    padding: 10px 10px;
+    margin: 10px 2px;
+}
+.box3{
+    background-color: rgb(31, 30, 30);
+    color: rgb(228, 225, 225)   ;
+    margin: 55px;
+}
+.blue{
+    color: rgb(50, 94, 152);
+}
